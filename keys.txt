@@ -1,0 +1,7 @@
+local licensedUsers = {
+    ["FIVEM-SIRUC-DKLYP-CCTLI"] = {
+        username = "Ronny",
+        type = "Lifetime",      -- süresiz
+        expiresAt = nil,
+    },
+}
