@@ -1,7 +1,0 @@
-local licensedUsers = {
-    ["1385434247709199736"] = {
-        username = "Ronny",
-        type = "Lifetime",      -- süresiz
-        expiresAt = nil,
-    },
-}
