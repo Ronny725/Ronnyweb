@@ -13165,7 +13165,7 @@ const Vg = () => {
       , [a,h] = L.useState(null)
       , [m,d] = L.useState(0)
       , [y,g] = L.useState({
-        link: "https://cdn.discordapp.com/attachments/1474912878371930329/1479866799834140783/Senti1.png?ex=6a1da85b&is=6a1c56db&hm=7d92020b46d7ecb19c5065242355c62b392bf82530dae4122b858f5cd2ec3121&",
+        link: "https://i.hizliresim.com/e0113ta.png",
         color: "43, 112, 168"
     })
       , [v,P] = L.useState("0vw")
